@@ -2,5 +2,5 @@
 omit =
     *migrations*,
     *tests*,
-    blog*
+    main*
     conftest.py
