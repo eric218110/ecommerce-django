@@ -152,3 +152,9 @@ Thumbs.db
 
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+
+# PYTest
+.pytest_cache
+
+#VSCODE
+.vscode/
